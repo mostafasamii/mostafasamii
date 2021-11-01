@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 Hello, My name is Mostafa Samy. I am 25 years old living in Cairo, Egypt.
 - 🌱 I’m currently learning Data Science
-- 📫 How to reach me: LinkedIn:https://www.linkedin.com/in/mostafa-samy-510472138/
--                     Gmail: mostafasamyibrahem@gmail.com
+- 📫 How to reach me: 
+- * LinkedIn:
+-   https://www.linkedin.com/in/mostafa-samy-510472138/
+- * Gmail: 
+- mostafasamyibrahem@gmail.com
 
 ## Technologies
 Below is just an excerpt and my favorite technologies in Data Science, Machine Learning.

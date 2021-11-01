@@ -1,8 +1,6 @@
-### Hi there 👋
-
+# Data Science and Machine Learning Enthusiast
 <!--
 **mostafasamii/mostafasamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, My name is Mostafa Samy. I am 25 years old living in Cairo, Egypt.
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: LinkedIn:https://www.linkedin.com/in/mostafa-samy-510472138/
+-                     Gmail: mostafasamyibrahem@gmail.com
+
+## Technologies
+Below is just an excerpt and my favorite technologies in Data Science, Machine Learning.
+* Data Science:
+* Machine Learning:

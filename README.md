@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 Hello, My name is Mostafa Samy. I am 25 years old living in Cairo, Egypt.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: 
-- * LinkedIn:
+  * LinkedIn:
 -   https://www.linkedin.com/in/mostafa-samy-510472138/
-- * Gmail: 
+  * Gmail: 
 - mostafasamyibrahem@gmail.com
 
 ## Technologies

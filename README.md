@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Image of Interface](https://github.com/mostafasamii/mostafasamii/blob/main/1.png)
+![Image of Interface]()
 ## Hello, It's Mostafa Samy
 - 🌱 I’m currently learning Data Science.
 - 📫 How to reach me:

@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Image of Interface](https://github.com/mostafasamii/mostafasamii/blob/main/datascience.jpg)
+![Image of Interface](https://github.com/mostafasamii/mostafasamii/blob/main/photo_portfolio.jpg)
 ## Hello, It's Mostafa Samy
 - 🌱 I’m currently learning Data Science.
 - 📫 How to reach me:
 
   LinkedIn: https://www.linkedin.com/in/mostafa-samy-510472138/
-  
+
   Gmail: mostafasamyibrahem@gmail.com

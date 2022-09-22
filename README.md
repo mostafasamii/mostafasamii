@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![Image of Interface](https://github.com/mostafasamii/mostafasamii/blob/main/photo_portfolio.jpg)
+-->
+
 ## Hello, It's Mostafa Samy
 - 🌱 I’m currently learning Data Science.
 - 📫 How to reach me:

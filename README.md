@@ -1,23 +1,22 @@
-# Data Science and Machine Learning Enthusiast
-<!--
-**mostafasamii/mostafasamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mostafa+Samy....;Nice+to+meet+you!&center=true&size=28">
+  </a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Image of Interface](https://github.com/mostafasamii/mostafasamii/blob/main/photo_portfolio.jpg)
--->
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/mostafa-samy-510472138/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://huggingface.co/MostafaSamii" title="Huggingface Profile"><img width="22" src="images/huggingface.png"> Hugging Face</a></code>
+  <code><a href="https://www.kaggle.com/mostafasamy2019" title="Kaggle Profile"><img width="22" src="images/kaggle.png"> Kaggle</a></code>
+</h5>
 
-## Hello, It's Mostafa Samy
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me:
-
-  LinkedIn: https://www.linkedin.com/in/mostafa-samy-510472138/
-
-  Gmail: mostafasamyibrahem@gmail.com
+<br>
+<p align="center">
+  Hi, I'm Mostafa Samy, Artificial Intelligence I at Cyshield
+  <br>
+  🔬 I'm currently studying for my Masters at Ain Shams University
+  <br>
+  🎓 I graduated from Ain Shams University, Department of Scientific Computing (Bachelor)
+  <br>
+  💻 I love writing code and learn anythings about it
+</p>

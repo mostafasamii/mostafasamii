@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Mostafa Samy, Artificial Intelligence I at Cyshield
+  Hi, I'm Mostafa Samy, Artificial Intelligence Engineer I at Cyshield
   <br>
   🔬 I'm currently studying for my Masters at Ain Shams University
   <br>
